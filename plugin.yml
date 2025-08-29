@@ -1,0 +1,6 @@
+name: AnchorOptimizer
+version: 1.0.0
+main: com.example.anchoroptimizer.AnchorOptimizer
+api-version: 1.21
+author: YourName
+description: Optimizes respawn anchor mechanics to reduce delay for high ping players
